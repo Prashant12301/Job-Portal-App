@@ -21,6 +21,7 @@ const corsOptions = {
     credentials:true
 }
 
+// This is dummy comment to test git pull
 app.use(cors(corsOptions));
 
 const PORT = process.env.PORT || 3000;
