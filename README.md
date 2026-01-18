@@ -142,11 +142,6 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots of Home, Login, Job List, Dashboard here)*
-
----
 
 ## 📌 Future Enhancements
 
